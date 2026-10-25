@@ -1,0 +1,6 @@
+- insert:
+    - id: text-stats
+      name: './src/index.ts'
+      config:
+        defaultTopWords: 5
+        caseSensitive: false

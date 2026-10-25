@@ -1,0 +1,6 @@
+- insert:
+    - id: text-stats
+      name: '@pepperpapa/dsh-tool-text-stats'
+      config:
+        defaultTopWords: 5
+        caseSensitive: false
